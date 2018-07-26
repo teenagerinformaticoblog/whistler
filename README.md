@@ -1,2 +1,2 @@
-# whistler
-Versioni diverse di Whistler
+# Whistler
+Tutte le versioni di Whistler saranno elencate qua.
